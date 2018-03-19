@@ -1,0 +1,9 @@
+GIT - Distributed Version control
+
+dev 1 - repo in his laptop - maintaining version
+
+dev 2 - repo in his laptop - maintaining version
+
+dev 3 - repo in his laptop - maintaining version
+
+TL Laptop - dev1,dev2, dev3 can push their repos to TL repo
